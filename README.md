@@ -45,14 +45,14 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 ## Darwin World:
 A simulation implementing a genetic algorithm with configurable options, made using Java (collaboration with Epic215)
 
-🌍Darwin World: https://github.com/Epic215/PO_2023_PROJ_MICHON_FAFARA🌍
+🌍 Darwin World: https://github.com/Epic215/PO_2023_PROJ_MICHON_FAFARA 🌍
 
 ## Demo artist page:
 Vanilla JavaScript page, designed fully by me:
 
-🎨Demo page: https://afafaraa.github.io/mini_projekt_0/🎨
+🎨 Demo page: https://afafaraa.github.io/mini_projekt_0/ 🎨
 
 ## (In progress) React store, working on setting up server in Flask and Sqlite database:
 
-🐞React Store: https://afafaraa.github.io/react-test-2🐞
+🐞 React Store: https://afafaraa.github.io/react-test-2 🐞
 
