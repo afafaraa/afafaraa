@@ -38,4 +38,11 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
 
+---
+
+## Projects:
+
+# Darwin World:
+
+
 
