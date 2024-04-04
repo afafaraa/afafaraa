@@ -29,6 +29,7 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,vue,nextjs)](https://skillicons.dev)
 
+---
 
 # Skills:
 
