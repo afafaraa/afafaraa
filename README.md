@@ -32,7 +32,7 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i==git,github,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vite)](https://skillicons.dev)
 
 ## Operating Systems:
 
