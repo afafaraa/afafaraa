@@ -12,29 +12,29 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 
 ---
 
-## Programming Languages and Frameworks:
-# My favorites:
+# Programming Languages and Frameworks:
+## My favorites:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,bootstrap)](https://skillicons.dev)
 
-# Know my way around:
+## Know my way around:
 
 [![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
 
-# Learning
+## Learning
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,express)](https://skillicons.dev)
 
-# Want to learn:
+## Want to learn:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,vue,nextjs)](https://skillicons.dev)
 
 
-## Skills:
+# Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vite)](https://skillicons.dev)
 
-## Operating Systems:
+# Operating Systems:
 
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
 
