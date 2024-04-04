@@ -44,4 +44,4 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 
 ## Darwin World:
 
-[Darwin World]([readme.com](https://github.com/Epic215/PO_2023_PROJ_MICHON_FAFARA))
+[Darwin World]([(https://github.com/Epic215/PO_2023_PROJ_MICHON_FAFARA)])
