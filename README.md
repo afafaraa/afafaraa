@@ -40,9 +40,9 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 
 ---
 
-## Projects:
+# Projects:
 
-# Darwin World:
+## Darwin World:
 
 
 
