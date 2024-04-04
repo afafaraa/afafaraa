@@ -14,11 +14,9 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 
 ## Programming Languages:
 # My favorites:
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
-<\p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 # Know my way around:
-<p align="center">
+
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
-<\p>
