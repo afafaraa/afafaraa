@@ -10,5 +10,8 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 
 📖Creating and managing databases using: MS SQL, MongoDB, Oracle PL/SQL📖
 
-
 ---
+
+## Programming Languages:
+
+?i=js,html,css
