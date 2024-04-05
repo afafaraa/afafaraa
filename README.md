@@ -6,7 +6,7 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 
 🌻Web development, with tools like: HTML5, CSS, Bootstrap, JavaScript, ReactJS, ExpressJS, Mocha and Chai🌻
 
-☕Object Oriented Programming with Java☕
+☕Object Oriented Programming☕
 
 📖Creating and managing databases using: MS SQL, MongoDB, Oracle PL/SQL📖
 
