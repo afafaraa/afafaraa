@@ -4,7 +4,7 @@
 
 I'm 21 and currently studying Computer Science at AGH University of Science and Technology in Cracow. I particularly enjoy diving into the following subjects and topics:
 
-🌻Web development, with tools like: HTML5, CSS, Bootstrap, JavaScript, ReactJS, ExpressJS, Mocha and Chai🌻
+🌻Web development, with tools like: HTML5, CSS, Bootstrap, JavaScript, SpringBoot, ReactJS, ExpressJS, Mocha and Chai🌻
 
 ☕Object Oriented Programming☕
 
@@ -15,7 +15,7 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 # Programming Languages and Frameworks:
 ## My favorites:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,bootstrap,springboot)](https://skillicons.dev)
 
 ## Know my way around:
 
