@@ -15,7 +15,7 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 # Programming Languages and Frameworks:
 ## My favorites:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,bootstrap,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,bootstrap,spring)](https://skillicons.dev)
 
 ## Know my way around:
 
