@@ -15,25 +15,25 @@ I'm 22 and currently studying Computer Science at AGH University of Science and 
 # Programming Languages and Frameworks:
 ## My favorites:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,bootstrap,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,java,spring,mongodb,docker)](https://skillicons.dev)
 
 ## Know my way around:
 
-[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgres,tailwind,c)](https://skillicons.dev)
 
 ## Learning
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=graphql,kotlin,kubernetes,nestjs)](https://skillicons.dev)
 
 ## Want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,vue,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,vue)](https://skillicons.dev)
 
 ---
 
 # Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,vite,postman)](https://skillicons.dev)
 
 # Operating Systems:
 
@@ -52,8 +52,3 @@ A simulation implementing a genetic algorithm with configurable options, made us
 Vanilla JavaScript page, designed fully by me:
 
 🎨 Demo page: https://afafaraa.github.io/mini_projekt_0/ 🎨
-
-## (In progress) React store, working on setting up server in Flask and Sqlite database:
-
-🐞 React Store: https://afafaraa.github.io/react-test-2 🐞
-
