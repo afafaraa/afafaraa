@@ -4,9 +4,9 @@
 
 I'm 22 and currently studying Computer Science at AGH University of Science and Technology in Cracow. I particularly enjoy diving into the following subjects and topics:
 
-🕸️ Web development, with tools like: React, Redux, Java/Kotlin SpringBoot, NestJS, Mocha and Chai🕸️
+🕸️ Web development, with tools like: React, Redux, Java/Kotlin SpringBoot, Gleam, Wisp, Lustre, Mocha and Chai🕸️
 
-☕Object Oriented Programming☕
+☕Functional Programming and Object Oriented Programming☕
 
 📖Creating and managing databases using: PostgreSql and MongoDB📖
 
